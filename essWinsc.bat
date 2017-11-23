@@ -14,7 +14,7 @@ echo ls
 echo close
 echo exit
 goto :EOF
-
+echo TestGit
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :fin
