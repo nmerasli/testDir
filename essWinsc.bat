@@ -10,7 +10,7 @@ echo open @%1:22
 echo root
 echo ingenico
 echo cd %2
-echo ls
+echo ls -l
 echo close
 echo exit
 goto :EOF
