@@ -8,6 +8,7 @@ goto fin
 :ssh
 echo open @%1:22
 echo root
+echo ma feature 1
 echo ingenico
 echo cd %2
 echo ls -la
